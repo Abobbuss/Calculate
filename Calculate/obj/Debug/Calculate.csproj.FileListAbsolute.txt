@@ -1,0 +1,10 @@
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.UI.CalculatorForm.resources
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\me\me\Work\CSharp\Calculate\Calculate\obj\Debug\Calculate.pdb
